@@ -1,6 +1,6 @@
 ## printf("Hello World"); 👋
 
-- 👩‍🎓 I'm a bachelor's degree student in Information Systems at UNICAMPV
+- 👩‍🎓 I'm a bachelor's degree student in Information Systems at UNICAMP
 - 🔭 I'm an intern at SiDi in Development and B2B Solutions
 - 🌱 I’m currently learning Python and Flutter
 
